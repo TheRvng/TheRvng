@@ -3,11 +3,11 @@
   <br>
   <a href="https://discord.gg/ZXsYv6PXdW"><img src="https://images-ext-1.discordapp.net/external/ERPjhJz71sUL0yqwEkNEYaLSGmy2V00knDjP8VVPBsQ/https/cdn.discordapp.com/icons/1124130355927056384/a_63b97f6a09b6eb06378d9d4df9c166e3.gif" alt="Rvng Image" width="200"></a>
   <br>
-  Markdownify
+  The RVNG
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Uma comunidade do discord focada em CyberSegurança <a href="https://discord.gg/ZXsYv6PXdW" target="_blank">Clique aqui para entrar!</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
