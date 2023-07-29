@@ -8,3 +8,4 @@
 </h1>
 
 <h4 align="center">Uma comunidade do discord focada em CyberSegurança - <a href="https://discord.gg/ZXsYv6PXdW" target="_blank">Clique aqui para entrar!</a></h4>
+<h4 align="center">Também visite o nosso <a href="thervng.github.io">site!</a></h4>
